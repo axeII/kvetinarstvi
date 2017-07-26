@@ -1,1 +1,3 @@
 target/* linguist-vendored
+target/classes/* linguist-vendored
+target/work/* linguist-vendored
